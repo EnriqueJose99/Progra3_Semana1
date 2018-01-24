@@ -32,12 +32,13 @@ int main(){
 	//el booleano solo es falso cuando es 0 
 	//toda operacion "if" return algo "el valor que le asigno a la variable"
 	//Mucho cuidado por que el compilador de c++ no mira la logica de comparar o asignar
-	
+		
 	bool condition = true;
 	if(condition){
 		cout<<"Verdadero"<< endl;
 	}else{ 
 	        cout<<"False"<< endl;
 	}
-
+ 	//Casi todas las operacionas son identicas pero for each no hay como estandar, hay que implementar una libreria
+	
 }
